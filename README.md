@@ -21,8 +21,6 @@ Version Control: Git & GitHub
 Follow these steps to set up the project locally:
 
 Clone the repository
-git clone https://github.com/ShreyaKhaire0429/Online-Voting_System.git
-cd Online-Voting_System
 
 Set up a local server (XAMPP recommended)
 Start Apache & MySQL services in XAMPP.
@@ -48,7 +46,5 @@ Open a Pull Request.
 📜 License
 This project is open-source and available under the MIT License.
 
-📬 Contact
-For any queries, feel free to reach out:
-GitHub: ShreyaKhaire0429
-Email: shreyakhaire@33gmail.com
+
+
